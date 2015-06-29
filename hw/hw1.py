@@ -14,13 +14,15 @@ This is due 7/1/2015
 import pandas as pd
 # pd.set_option('max_colwidth', 50)
 # set this if you need to
-
-killings = pd.read_csv('hw/data/police-killings.csv')
+pwd
+killings = pd.read_csv('/Users/Wong/GA/SF_DAT_15_WORK/hw/police-killings.csv')
 killings.head()
 
 # 1. Make the following changed to column names:
 # lawenforcementagency -> agency
 # raceethnicity        -> race
+
+
 
 # 2. Show the count of missing values in each column
 
