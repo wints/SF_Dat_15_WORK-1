@@ -1,0 +1,6 @@
+-I plan on doing top payers churn and re-engagement engine
+-I have my own production data that I will clean up and build ETL tables for easier tracking
+-Validation based on ROC curve and testing it whether it is true by tracking it 3,7,30 days
+-Challenges is picking the correct model
+-I chose this topic because it is work-related and I can test the validation easily
+
